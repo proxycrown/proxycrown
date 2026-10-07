@@ -103,8 +103,8 @@ console.log(res.data);
 
 <p>
   <a href="https://discord.gg/proxycrown"><img alt="Discord" src="https://img.shields.io/badge/Discord-join-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://twitter.com/proxycrown"><img alt="X" src="https://img.shields.io/badge/X-follow-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://t.me/proxycrown"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://x.com/proxycrowncom"><img alt="X" src="https://img.shields.io/badge/X-@proxycrowncom-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://t.me/proxycrowncom"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@proxycrowncom-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://linkedin.com/company/proxycrown"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
