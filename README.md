@@ -92,6 +92,19 @@ console.log(res.data);
 - **Transparent uptime** — public [status page](https://status.proxycrown.com) and real-time metrics
 - **No lock-in** — usage-based pricing starting from **$1.50/GB**
 
+## Open data
+
+We publish what we measure — including the rows where our own product is the wrong buy. 132,020 requests, 20 fixed targets, four proxy classes, per-target verdicts with Wilson intervals:
+
+| Target | Datacenter | ISP | Residential | Mobile |
+| :-- | :-- | :-- | :-- | :-- |
+| `etsy.com` | 0% | 0% | 0% | 0% |
+| `amazon.com` | 94% | 0% | 0% | 0% |
+| `zillow.com` | 0% | 0% | 94% | 58% |
+| `reddit.com` | 0% | 0% | 100% | 99% |
+
+Dataset, harness and raw verdicts: **[proxycrown/proxy-benchmark](https://github.com/proxycrown/proxy-benchmark)** (code MIT, data CC BY 4.0).
+
 ## Compliance & security
 
 - GDPR & CCPA compliant
